@@ -26,7 +26,7 @@ global.wm = "Awmtea Polythene."
 global.link = 'Follow the Flex channel on WhatsApp: https://whatsapp.com/channel/0029Vakp5lvI7BeHPAtVmx2a'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [''.'']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -42,7 +42,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
